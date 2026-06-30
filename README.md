@@ -1,0 +1,2 @@
+# e66b0c28bf90b81f-devops-infra-appointment-sched
+You shouldn't need alt-tabbing out of your code 40 times a day to stay in flow state and ship faster.  Status bar integration gives you real-time feedback without opening panels. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Devops Infra Appointment Scheduling And Reminders — fully configured and rea
